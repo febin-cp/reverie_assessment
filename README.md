@@ -1,4 +1,4 @@
-# reverie_assessment
+# Data Table Model Component
 Frontend Assessment 
 
 # steps to run this app
